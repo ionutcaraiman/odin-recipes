@@ -1,0 +1,11 @@
+[33mcommit a7c671a149c73e1462bcb55c280dda2b82e9a093[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ionutcaraiman <ionutcaraiman1@gmail.com>
+Date:   Fri Apr 7 20:13:24 2023 +0300
+
+    This is a work of art# with '#' will be ignored, and an empty message aborts the commit.
+
+[33mcommit 5c1b2d8b9927148d909d83f2020ab4ce0261e5ed[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ionutcaraiman <129843904+ionutcaraiman@users.noreply.github.com>
+Date:   Fri Apr 7 18:12:47 2023 +0300
+
+    Initial commit
